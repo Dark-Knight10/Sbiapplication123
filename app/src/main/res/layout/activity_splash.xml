@@ -12,8 +12,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
        android:layout_centerInParent="true"
-    android:scaleType="center"
-    android:src="@drawable/im1" />
+    android:scaleType="centerCrop"
+    android:src="@drawable/splash2" />
 
 
 
